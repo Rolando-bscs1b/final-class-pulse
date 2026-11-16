@@ -1,0 +1,17 @@
+CLASS PULSE — FINAL SYSTEM
+
+Main file: classpulse/index.php
+This opens the welcome page. The complete classpulse folder is required.
+
+Current installed system:
+http://localhost/ClassPulse-improved/classpulse/
+Start Apache and MySQL in XAMPP, then open that address.
+
+To run this final folder as a separate installation:
+1. Copy the entire "final class pulse" folder into C:\xampp\htdocs.
+2. Open http://localhost/final%20class%20pulse/classpulse/
+3. The existing configuration connects to classpulse_revised.
+
+The included ClassPulse-database.sql is the starter database structure.
+Your current database and its saved records remain in MySQL; they are not stored in this folder.
+Do not import the starter database over your existing data.
